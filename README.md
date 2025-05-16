@@ -81,7 +81,7 @@
 ## Contact
 
   <a href="https://www.linkedin.com/in/junus-ergin/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-    <img src="./assets/Linked In 02.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="./assets/linkedin.png" width="32" height="32" alt="LinkedIn" />
   </a>
 
 ###
