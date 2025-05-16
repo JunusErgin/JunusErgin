@@ -72,11 +72,11 @@
 
 ###
 
-<!-- ## Profileviews
+## Profileviews
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/JunusErgin/count.svg?"  />
-</div> -->
+</div>
 
 ## Contact
 
